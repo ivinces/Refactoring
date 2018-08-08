@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package DataClumps.CodeSmell;
+package ShotgunSurgery.CodeSmell;
 
 /**
  *
  * @author isabe
  */
-public class CodeSmell {
+public class Reporte {
     
 }
