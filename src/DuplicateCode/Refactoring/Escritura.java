@@ -3,15 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package DuplicateCode;
-
+package DuplicateCode.Refactoring;
 
 
 /**
  *
  * @author isabe
  */
-public class CodeSmell {
-    
+public class Escritura {
+
     
 }
