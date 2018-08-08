@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LongMethod.Refactoring;
-
+package SwitchStatements.CodeSmell;
 
 /**
  *
  * @author isabe
  */
-public class Validar {
+public enum Movie {
+    REGULAR;
     
 }
