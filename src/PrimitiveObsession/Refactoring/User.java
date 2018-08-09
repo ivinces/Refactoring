@@ -7,7 +7,7 @@ package PrimitiveObsession.Refactoring;
 
 /**
  *
- * @author isabe
+ * @author https://dzone.com/articles/code-quality-fighting-primitive-obsession-code-sme-1
  */
 public class User {
     Url portafolio;
