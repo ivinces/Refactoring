@@ -6,7 +6,7 @@
 package LongMethod.CodeSmell;
 
 /**
- *
+ *https://www.slideshare.net/annuvinayak/code-smells-and-its-type-with-example
  * @author isabe
  */
 public class Precio {

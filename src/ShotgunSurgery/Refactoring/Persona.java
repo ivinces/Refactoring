@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ShotgunSurgery.CodeSmell;
+package ShotgunSurgery.Refactoring;
+
 
 /**
  *
  * @author isabe
  */
-public class Reporte {
+public class Persona {
+    int id;
+    
     
 }
