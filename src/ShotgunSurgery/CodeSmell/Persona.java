@@ -7,7 +7,7 @@ package ShotgunSurgery.CodeSmell;
 
 /**
  *
- * @author isabe
+ * @author https://www.slideshare.net/annuvinayak/code-smells-and-its-type-with-example
  */
 public class Persona {
     int id;

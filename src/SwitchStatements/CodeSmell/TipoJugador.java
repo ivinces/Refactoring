@@ -9,7 +9,8 @@ package SwitchStatements.CodeSmell;
  *
  * @author isabe
  */
-public enum Movie {
-    REGULAR;
+public enum TipoJugador {
     
+   TENNIS,
+   FOOTBALL, SNOOKER  
 }
